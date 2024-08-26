@@ -11,8 +11,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
+global.ownernomer = "2250586588522"
+global.ownername = "꧁⦃亗ᒪOᖇᗪ ᕼᗩᗪᙓSᵒ᭄ᗪᗩᖇKᑎᙓSS꧂"
 global.ytname = "YT: Jean-parker-tech"
 global.socialm = "GitHub: Jeanparker100"
 global.location = "Togo, maritime, Lomé"
@@ -26,7 +26,7 @@ global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
 global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
 
 //console view/theme
-global.themeemoji = '🩵'
+global.themeemoji = '🥇'
 global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
 
 //theme link
